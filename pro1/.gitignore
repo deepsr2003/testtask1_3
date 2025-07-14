@@ -1,0 +1,9 @@
+# Node
+electron-app/node_modules
+electron-app/dist
+
+# Swift
+swift-cli/.build
+
+# macOS
+.DS_Store
